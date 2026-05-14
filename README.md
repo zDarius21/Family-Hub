@@ -21,14 +21,17 @@ L'APK per test o installazione manuale è incluso nel repository:
 
 Le immagini nella cartella `screenshots/` mostrano le schermate principali dell'app:
 
-- **Home**: schermata iniziale con accesso alle funzioni principali dell'app.
-	![Home](screenshots/Home.jpeg)
-- **ToDo**: sezione dedicata alla gestione delle attività condivise.
-	![ToDo](screenshots/ToDo.jpeg)
-- **Lista della spesa**: schermata per creare e consultare la lista della spesa condivisa.
-	![Lista della spesa](screenshots/ListaSpesa.jpeg)
-- **Spese**: area dedicata alla visualizzazione e gestione delle spese/transazioni.
-	![Spese](screenshots/Spese.jpeg)
+<p><strong>Home</strong>: schermata iniziale con accesso alle funzioni principali dell'app.</p>
+<img src="screenshots/Home.jpeg" alt="Home" width="180">
+
+<p><strong>ToDo</strong>: sezione dedicata alla gestione delle attività condivise.</p>
+<img src="screenshots/ToDo.jpeg" alt="ToDo" width="180">
+
+<p><strong>Lista della spesa</strong>: schermata per creare e consultare la lista della spesa condivisa.</p>
+<img src="screenshots/ListaSpesa.jpeg" alt="Lista della spesa" width="180">
+
+<p><strong>Spese</strong>: area dedicata alla visualizzazione e gestione delle spese/transazioni.</p>
+<img src="screenshots/Spese.jpeg" alt="Spese" width="180">
 
 **Build & Esecuzione**
 
