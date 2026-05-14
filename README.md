@@ -24,16 +24,23 @@ Le immagini nella cartella `screenshots/` mostrano le schermate principali dell'
 <div align="center">
 	<p><strong>Home</strong>: schermata iniziale con accesso alle funzioni principali dell'app.</p>
 	<img src="screenshots/Home.jpeg" alt="Home" width="180">
-
+</div>
+<div align="center">
 	<p><strong>ToDo</strong>: sezione dedicata alla gestione delle attività condivise.</p>
 	<img src="screenshots/ToDo.jpeg" alt="ToDo" width="180">
+</div>
 
+<div align="center">
 	<p><strong>Lista della spesa</strong>: schermata per creare e consultare la lista della spesa condivisa.</p>
 	<img src="screenshots/ListaSpesa.jpeg" alt="Lista della spesa" width="180">
+</div>
 
+<div align="center">
 	<p><strong>Spese</strong>: area dedicata alla visualizzazione e gestione delle spese/transazioni.</p>
 	<img src="screenshots/Spese.jpeg" alt="Spese" width="180">
 </div>
+
+
 
 **Build & Esecuzione**
 
