@@ -1,7 +1,4 @@
 
-# Family-Hub
-
-**Descrizione**
 Family-Hub è un'app Android per la gestione collaborativa della vita familiare: attività condivise, liste della spesa, transazioni fra membri, promemoria e tracking della posizione. Il progetto è scritto in Kotlin e può integrare Firebase.
 
 **Caratteristiche principali**
